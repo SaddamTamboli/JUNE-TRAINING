@@ -1,2 +1,0 @@
-# JUNE-TRAINING
-Text formating
