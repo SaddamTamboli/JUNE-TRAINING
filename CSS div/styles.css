@@ -1,0 +1,118 @@
+p 
+{
+	font-family: tahoma;
+	color: white;
+}
+
+iframe
+{
+	width: 95%;
+	frameborder: 3;
+}
+
+h1 
+{
+	font-family: tahoma;
+}
+
+h3 
+{
+	font-family: cursive;
+}
+
+
+.first
+{
+	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+}
+
+.second
+{
+	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+}
+
+.three
+{
+	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+}
+
+.four
+{
+	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+}
+
+.five
+{
+	width: 15%;
+	margin: 2%;
+	float: left;
+	padding: 15px;
+} 
+
+.six
+{
+	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+}
+
+.seven
+{
+	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+}
+
+.eight
+{
+	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+ }
+
+ .nine
+ {
+ 	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+ }
+
+ .ten
+ {
+ 	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+ }
+
+ .eleven
+ {
+ 	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+ }
+
+ .twelve
+ {
+ 	width: 15%;
+	float: left;
+	margin: 2%;
+	padding: 15px;
+ }
